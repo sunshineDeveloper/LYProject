@@ -7,7 +7,7 @@
 
 #import "AppDelegate.h"
 #import "LYPageContext.h"
-//极光推送
+//极
 @interface AppDelegate ()
 
 @end
