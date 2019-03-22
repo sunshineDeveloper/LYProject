@@ -21,11 +21,11 @@
     
     
     
-    UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
-    button.frame = CGRectMake(100, 100, 100, 100);
-    button.backgroundColor = [UIColor redColor];
-    [button addTarget:self action:@selector(buttonAction) forControlEvents:UIControlEventTouchUpInside];
-    [self.view addSubview:button];
+//    UIButton * button = [UIButton buttonWithType:UIButtonTypeCustom];
+//    button.frame = CGRectMake(100, 100, 100, 100);
+//    button.backgroundColor = [UIColor redColor];
+//    [button addTarget:self action:@selector(buttonAction) forControlEvents:UIControlEventTouchUpInside];
+//    [self.view addSubview:button];
     
     
 
