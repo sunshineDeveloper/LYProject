@@ -36,10 +36,7 @@
 //        });
 //    });
     
-//    dispatch_async(dispatch_get_main_queue(), ^{
-//        [self.tableView reloadData];
-//    });
-    // Do any additional setup after loading the view from its nib.
+
 }
 
 
